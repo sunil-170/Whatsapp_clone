@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467694074892",
+    "project_id": "my-whatsapp-3dcca",
+    "storage_bucket": "my-whatsapp-3dcca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467694074892:android:6574dbcbf2ea8b83948229",
+        "android_client_info": {
+          "package_name": "com.example.whatsappsaloon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9m2PmqBiHeQKAAFNMwwKZtrMsJ6LgY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
